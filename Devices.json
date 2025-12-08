@@ -1,0 +1,27 @@
+[
+    {
+        "url": "https://github.com/crusardri/MiraboxStreamController",
+        "branch": "main",
+        "version": "1.0.0",
+        "id": "com_community_mirabox",
+        "name": "Mirabox Devices",
+        "type": "device_plugin",
+        "thumbnail": "store/Thumbnail.png",
+        "descriptions": {
+            "en_US": "Support for Mirabox N3, N4 and compatible devices including Ajazz APK03E, Mars Gaming MSTwo, Red Dragon RD-SD6 and other rebrandings",
+            "es_ES": "Soporte para Mirabox N3, N4 y dispositivos compatibles incluyendo Ajazz APK03E, Mars Gaming MSTwo, Red Dragon RD-SD6 y otros rebrandings"
+        },
+        "short-descriptions": {
+            "en_US": "Mirabox device support",
+            "es_ES": "Soporte dispositivos Mirabox"
+        },
+        "tags": [
+            "Devices",
+            "Hardware",
+            "Mirabox",
+            "Stream Deck Alternative"
+        ],
+        "minimum-app-version": "1.5.0",
+        "app-version": "1.5.0"
+    }
+]
